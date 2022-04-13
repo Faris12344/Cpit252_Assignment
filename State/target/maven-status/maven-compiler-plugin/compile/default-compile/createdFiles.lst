@@ -1,0 +1,7 @@
+com\mycompany\state\HasQuarterState.class
+com\mycompany\state\GumballMachine.class
+com\mycompany\state\GumballMachineTestDrive.class
+com\mycompany\state\SoldOutState.class
+com\mycompany\state\State.class
+com\mycompany\state\NoQuarterState.class
+com\mycompany\state\SoldState.class

@@ -1,0 +1,6 @@
+paymentsStrategy\CreditCardPayment.class
+shopping\Product.class
+paymentsStrategy\Payment.class
+shopping\main.class
+paymentsStrategy\PayPalPayment.class
+shopping\ShoppingCart.class
